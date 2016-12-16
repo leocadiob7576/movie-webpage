@@ -9,6 +9,9 @@ h1 {
 }
 
 body {
-     background-image:url(abandoned-place.jpe);
+     background-image:url(abandoned-place.jpeg);
      
+}
+p{
+    color:white;
 }
