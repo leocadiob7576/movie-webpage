@@ -3,6 +3,12 @@
     height:250px;
 }
 
+h1 {
+    font-family: 'Nosifer', cursive;
+    color:red;
+}
+
 body {
-    font-family: 'Nosifer', cursive
+     background-image:url(abandoned-place.jpe);
+     
 }
