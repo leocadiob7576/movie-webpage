@@ -15,3 +15,7 @@ body {
 p{
     color:white;
 }
+img{
+    position: relative;
+    left: 750px;
+}
