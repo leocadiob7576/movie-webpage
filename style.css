@@ -1,28 +1,51 @@
-.resize{
-    width:250px;
-    height:250px;
+.resize {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border: 3px solid red;
+    padding: 10px;
 }
 
 h1 {
     font-family: 'Nosifer', cursive;
-    color:red;
+    color: red;
+     text-align: center;
 }
 
 body {
-     background-image:url(abandoned-place.jpeg);
-     
+    background-image: url(abandoned-place.jpeg);
+    font-family: "Open Sans", sans-serif;
 }
-p{
-    color:white;
+
+p {
+    color: white;
 }
-img{
+
+.img {
     position: relative;
-    left: 750px;
-    margin: auto;
-    width: 60px;
-    border: 3px solid #73AD21;
-    padding: px;
+    margin-left: 750px;
 }
-.info{
-    max-width: 500p;
+
+.info {
+    Position: relative;
+    margin-left: 780px;
+    border: 3px solid green;
+   
+}
+
+div {
+    clear: both;
+    text-align: center;
+    margin: auto;
+}
+
+#doll {
+    float: left;
+}
+
+#creepdoll {
+    height: 280px;
+    float: right;
+    position: relative;
+    transform: translate(0%, -100%);
 }
